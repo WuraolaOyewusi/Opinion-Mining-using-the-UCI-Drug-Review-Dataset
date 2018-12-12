@@ -1,1 +1,1 @@
-# Sentiment-Analysis-using-the-UCI-Drug-Review-Dataset
+# Opinion-Mining-using-the-UCI-Drug-Review-Dataset
